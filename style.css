@@ -14,7 +14,7 @@ h1 {
 
 .photo {
     float: right;
-    border-radius: 50%;
+    /*border-radius: 50%;*/
 }
 
 .main_text {
