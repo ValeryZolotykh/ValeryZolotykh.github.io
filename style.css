@@ -14,12 +14,13 @@ h1 {
 
 .photo {
     float: right;
-    /*border-radius: 50%;*/
+    border-radius: 50%;
 }
 
 .main_text {
     width: 70%;
     color: #444343;
+    margin-bottom: 40px;
 }
 
 .email-link {
